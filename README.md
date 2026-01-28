@@ -12,12 +12,9 @@ product analysis, experimentation, and user behavior.
 - Survey analysis
 
 ## Tools
-- Python
-- pandas
-- numpy
-- matplotlib / seaborn
-- statsmodels
-- scikit-learn
+- R
+- tidyverse
+- ggplot
 
 ## Projects
 - Marketing campaign A/B test analysis
